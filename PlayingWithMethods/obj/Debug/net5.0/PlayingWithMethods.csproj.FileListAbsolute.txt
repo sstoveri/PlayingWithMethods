@@ -1,0 +1,16 @@
+C:\Users\sstov\repos\Intro to C#\PlayingWithMethods\PlayingWithMethods\bin\Debug\net5.0\PlayingWithMethods.exe
+C:\Users\sstov\repos\Intro to C#\PlayingWithMethods\PlayingWithMethods\bin\Debug\net5.0\PlayingWithMethods.deps.json
+C:\Users\sstov\repos\Intro to C#\PlayingWithMethods\PlayingWithMethods\bin\Debug\net5.0\PlayingWithMethods.runtimeconfig.json
+C:\Users\sstov\repos\Intro to C#\PlayingWithMethods\PlayingWithMethods\bin\Debug\net5.0\PlayingWithMethods.runtimeconfig.dev.json
+C:\Users\sstov\repos\Intro to C#\PlayingWithMethods\PlayingWithMethods\bin\Debug\net5.0\PlayingWithMethods.dll
+C:\Users\sstov\repos\Intro to C#\PlayingWithMethods\PlayingWithMethods\bin\Debug\net5.0\ref\PlayingWithMethods.dll
+C:\Users\sstov\repos\Intro to C#\PlayingWithMethods\PlayingWithMethods\bin\Debug\net5.0\PlayingWithMethods.pdb
+C:\Users\sstov\repos\Intro to C#\PlayingWithMethods\PlayingWithMethods\obj\Debug\net5.0\PlayingWithMethods.csproj.AssemblyReference.cache
+C:\Users\sstov\repos\Intro to C#\PlayingWithMethods\PlayingWithMethods\obj\Debug\net5.0\PlayingWithMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sstov\repos\Intro to C#\PlayingWithMethods\PlayingWithMethods\obj\Debug\net5.0\PlayingWithMethods.AssemblyInfoInputs.cache
+C:\Users\sstov\repos\Intro to C#\PlayingWithMethods\PlayingWithMethods\obj\Debug\net5.0\PlayingWithMethods.AssemblyInfo.cs
+C:\Users\sstov\repos\Intro to C#\PlayingWithMethods\PlayingWithMethods\obj\Debug\net5.0\PlayingWithMethods.csproj.CoreCompileInputs.cache
+C:\Users\sstov\repos\Intro to C#\PlayingWithMethods\PlayingWithMethods\obj\Debug\net5.0\PlayingWithMethods.dll
+C:\Users\sstov\repos\Intro to C#\PlayingWithMethods\PlayingWithMethods\obj\Debug\net5.0\ref\PlayingWithMethods.dll
+C:\Users\sstov\repos\Intro to C#\PlayingWithMethods\PlayingWithMethods\obj\Debug\net5.0\PlayingWithMethods.pdb
+C:\Users\sstov\repos\Intro to C#\PlayingWithMethods\PlayingWithMethods\obj\Debug\net5.0\PlayingWithMethods.genruntimeconfig.cache
