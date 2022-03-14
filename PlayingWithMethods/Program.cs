@@ -33,6 +33,7 @@ namespace PlayingWithMethods
             //Console.WriteLine($"Favorite animal: {animal}");
             //Console.WriteLine($"Favorite band: {band}");
 
+
             //---------------Exercise 2---------------
 
             Console.WriteLine("Give me a number to add");
@@ -56,6 +57,19 @@ namespace PlayingWithMethods
 
         //---------------Exercise 2---------------
         
+        public static int Sum(int num1, int num2)
+        {
+            return num1 + num2;
+        }
+        
+
+        public static int Multiply(int x, int y)
+        {
+            return x * y;
+        }
+
+        //---------------Exercise 2 Challenge---------------
+
         public static int Sum(params int[] list)
         {
             int sum = 0;
@@ -65,12 +79,6 @@ namespace PlayingWithMethods
             }
 
             return sum;
-        }
-      
-
-        public static int Multiply(int x, int y)
-        {
-            return x * y;
         }
     }
 }
